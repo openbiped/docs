@@ -1,0 +1,8 @@
+<map id="pd::SBUSStreamProxy" name="pd::SBUSStreamProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,169,185,195"/>
+<area shape="rect" id="Node000002" href="$classpd_1_1HardwareSerialStreamProxy.html" title=" " alt="" coords="5,80,199,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,134,105,169,99,169,99,134"/>
+<area shape="rect" id="Node000003" href="$classpd_1_1StreamProxy.html" title=" " alt="" coords="37,5,167,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,44,105,80,99,80,99,44"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="182,10,194,18,186,25,168,27,167,22,184,20,189,18,180,15"/>
+</map>

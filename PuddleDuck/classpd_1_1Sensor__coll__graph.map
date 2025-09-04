@@ -1,0 +1,13 @@
+<map id="pd::Sensor" name="pd::Sensor">
+<area shape="rect" id="Node000001" title="Common sensor interface to unify various sensors." alt="" coords="248,240,339,265"/>
+<area shape="rect" id="Node000002" href="$structpd_1_1Sensor_1_1Event.html" title="struct sensor_event_s is used to provide a single sensor event in a common format." alt="" coords="162,152,297,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,191,225,203,229,215,241,228,257,238,254,242,238,232,224,217,220,204,220,191"/>
+<area shape="rect" id="Node000003" href="$structpd_1_1Sensor_1_1vec__t.html" title="vec_t is used to return a vector in a common format." alt="" coords="5,5,139,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,42,109,85,125,107,144,126,165,140,188,150,186,154,163,144,141,130,121,110,104,88,80,45"/>
+<area shape="rect" id="Node000004" href="$structpd_1_1Sensor_1_1Color.html" title="Color is used to return color data in a common format." alt="" coords="163,5,295,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="232,45,232,152,227,152,227,45"/>
+<area shape="rect" id="Node000005" href="$structpd_1_1Sensor_1_1quat__t.html" title=" " alt="" coords="320,5,459,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="369,43,274,130,245,154,242,150,270,126,365,39"/>
+<area shape="rect" id="Node000006" href="$classpd_1_1Bus.html" title=" " alt="" coords="321,152,391,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="346,191,329,218,308,241,304,238,325,214,341,188"/>
+</map>

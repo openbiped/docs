@@ -1,0 +1,38 @@
+<map id="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/arduino/StreamProxy.h" name="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/arduino/StreamProxy.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,401,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,401,95,427"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,48,140,64,106,77,75,92,48,111,27,134,13,161,8,193,8,269,11,302,20,334,43,388,38,390,15,336,6,303,3,269,3,192,8,159,22,131,44,107,72,88,104,72,138,59,206,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="383,108,447,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,58,390,97,387,102,336,62"/>
+<area shape="rect" id="Node000004" href="$SBus_8h.html" title=" " alt="" coords="221,108,307,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,61,278,97,273,94,289,59"/>
+<area shape="rect" id="Node000006" href="$Platform_8h.html" title=" " alt="" coords="47,328,158,353"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="266,62,238,84,211,110,154,177,135,210,116,255,108,286,106,315,100,314,103,285,111,254,130,208,149,174,207,106,235,80,263,58"/>
+<area shape="rect" id="Node000008" href="$Log_8h.html" title=" " alt="" coords="315,255,453,280"/>
+<area shape="poly" id="edge20_Node000001_Node000008" title=" " alt="" coords="316,59,378,240,373,242,311,61"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="471,108,585,133"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="373,58,486,100,484,105,371,63"/>
+<area shape="rect" id="Node000005" href="$Bus_8h.html" title=" " alt="" coords="178,181,257,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="259,135,235,171,230,168,254,132"/>
+<area shape="poly" id="edge18_Node000004_Node000008" title=" " alt="" coords="274,132,329,205,364,243,360,247,325,208,270,135"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,209,164,229,135,256,119,286,110,315,105,314,115,283,131,253,161,224,193,204"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="245,204,345,247,343,252,243,209"/>
+<area shape="rect" id="Node000014" href="$Utils_8h.html" title=" " alt="" coords="145,255,290,280"/>
+<area shape="poly" id="edge15_Node000005_Node000014" title=" " alt="" coords="220,207,220,241,215,241,215,207"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="97,355,71,392,67,389,92,352"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="187,401,261,427"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="124,351,194,392,191,397,121,356"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="373,282,319,330,248,394,245,390,316,326,369,278"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="329,328,399,353"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="383,281,373,316,368,314,378,280"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="182,328,253,353"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="358,282,258,325,256,320,356,278"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="424,328,488,353"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="398,278,436,316,433,320,394,282"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="512,328,571,353"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="410,278,504,320,502,325,408,282"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="595,328,719,353"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="429,277,601,322,599,327,427,283"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="200,282,134,323,132,318,198,278"/>
+<area shape="poly" id="edge17_Node000014_Node000010" title=" " alt="" coords="220,280,220,314,215,314,215,280"/>
+</map>

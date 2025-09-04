@@ -1,0 +1,31 @@
+<map id="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/motor/robotis/DynamixelBus.h" name="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/motor/robotis/DynamixelBus.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="504,5,748,60"/>
+<area shape="rect" id="Node000002" href="$QuackHead_8h.html" title=" " alt="" coords="415,108,608,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,71,543,110,540,106,584,67"/>
+<area shape="rect" id="Node000003" href="$Dynamixel_8h.html" title=" " alt="" coords="632,108,852,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="669,67,713,106,710,110,665,71"/>
+<area shape="rect" id="Node000004" href="$Armature_8h.html" title=" " alt="" coords="333,211,527,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,169,512,213,510,208,647,164"/>
+<area shape="rect" id="Node000012" href="$dxlchangebaud_8cpp.html" title=" " alt="" coords="551,225,735,251"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="708,175,657,227,653,223,704,171"/>
+<area shape="rect" id="Node000013" href="$dxlchangeid_8cpp.html" title=" " alt="" coords="760,225,924,251"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="780,171,832,223,828,227,776,175"/>
+<area shape="rect" id="Node000014" href="$dxltest_8cpp.html" title=" " alt="" coords="949,225,1079,251"/>
+<area shape="poly" id="edge15_Node000003_Node000014" title=" " alt="" coords="826,165,984,223,982,228,824,170"/>
+<area shape="rect" id="Node000005" href="$Recording_8h.html" title=" " alt="" coords="61,313,255,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="348,272,230,316,228,311,346,267"/>
+<area shape="rect" id="Node000007" href="$Robot_8h.html" title=" " alt="" coords="333,313,527,368"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="433,279,433,313,427,313,427,279"/>
+<area shape="rect" id="Node000011" href="$puddle_8cpp.html" title=" " alt="" coords="465,519,595,544"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="502,271,524,289,540,312,551,340,557,370,557,430,548,482,537,519,532,518,542,481,552,429,552,370,546,342,536,315,520,293,498,275"/>
+<area shape="rect" id="Node000006" href="$Playback_8h.html" title=" " alt="" coords="5,416,199,471"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="139,382,119,417,114,415,134,379"/>
+<area shape="rect" id="Node000008" href="$API_8h.html" title=" " alt="" coords="223,431,343,456"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="382,378,302,433,299,428,379,373"/>
+<area shape="rect" id="Node000010" href="$Defaults_8h.html" title=" " alt="" coords="367,431,493,456"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="433,382,433,430,427,430,427,382"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="476,376,507,415,519,443,526,472,532,518,527,519,521,473,514,444,502,417,472,379"/>
+<area shape="rect" id="Node000009" href="$API_8cpp.html" title=" " alt="" coords="216,519,351,544"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="286,470,286,518,281,518,281,470"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="456,463,518,516,514,520,452,467"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="pd::Actuator" name="pd::Actuator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,159,107,185"/>
+<area shape="rect" id="Node000002" href="$classpd_1_1motor_1_1cubemars_1_1AK60.html" title=" " alt="" coords="167,5,325,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,146,105,100,127,76,153,55,175,43,177,48,156,60,131,80,109,104,74,149"/>
+<area shape="rect" id="Node000003" href="$classpd_1_1motor_1_1robotis_1_1Dynamixel.html" title=" " alt="" coords="177,69,315,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,150,154,119,184,107,186,112,156,124,93,155"/>
+<area shape="rect" id="Node000004" href="$classpd_1_1motor_1_1servo_1_1Analog.html" title=" " alt="" coords="155,134,337,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,161,154,156,155,162,121,166"/>
+<area shape="rect" id="Node000005" href="$classpd_1_1motor_1_1unitree_1_1Go.html" title=" " alt="" coords="163,183,329,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,177,164,183,163,188,120,183"/>
+<area shape="rect" id="Node000006" href="$classpd_1_1motor_1_1unitree_1_1Uki.html" title=" " alt="" coords="171,233,321,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="95,189,156,218,189,231,187,236,154,222,93,193"/>
+<area shape="rect" id="Node000007" href="$classpd_1_1motor_1_1xiaomi_1_1Cybergear.html" title=" " alt="" coords="173,297,319,337"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="74,194,109,239,131,263,156,283,177,295,175,300,153,288,128,267,105,243,70,198"/>
+</map>

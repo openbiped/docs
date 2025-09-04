@@ -1,0 +1,27 @@
+var classpd_1_1QuackHead =
+[
+    [ "Orientation", "structpd_1_1QuackHead_1_1Orientation.html", "structpd_1_1QuackHead_1_1Orientation" ],
+    [ "~QuackHead", "classpd_1_1QuackHead.html#a64fb63f0ab60c011bee7ccd87bc4254f", null ],
+    [ "activateFlashFlight", "classpd_1_1QuackHead.html#a5ab5503168651584fa533e418f042f55", null ],
+    [ "disableIfNotResponding", "classpd_1_1QuackHead.html#acc6c42a16ab56f03d7dbbc8edd3c90ef", null ],
+    [ "getEvent", "classpd_1_1QuackHead.html#afd5e02927349f43b70ada3ce0d9eac44", null ],
+    [ "hasOrientation", "classpd_1_1QuackHead.html#a63bcfe6269570f76e54d7571791bdf7e", null ],
+    [ "isResponding", "classpd_1_1QuackHead.html#ab54f07f649b493932c87d0712f3c37f8", null ],
+    [ "pitch", "classpd_1_1QuackHead.html#a5f109818b9bfe2a75cdd21aab9fc5a3f", null ],
+    [ "playSound", "classpd_1_1QuackHead.html#a983c3bf92472873cb42d866d665ef195", null ],
+    [ "roll", "classpd_1_1QuackHead.html#a74efcd577209f2a1ba5ac7f1694a0d82", null ],
+    [ "setBus", "classpd_1_1QuackHead.html#a8009a1cb2ba532c63bb223ad591b2e0a", null ],
+    [ "setDynamixelBus", "classpd_1_1QuackHead.html#a1bffc4ede300b5b002bf8513dabe8253", null ],
+    [ "setVolume", "classpd_1_1QuackHead.html#a53786c625a09287c6c79fc8de0299bfd", null ],
+    [ "timeSinceLastResponse", "classpd_1_1QuackHead.html#a04d16bb38464b7b50975442f756abe59", null ],
+    [ "update", "classpd_1_1QuackHead.html#acb96f5ea047b56fb8f7de1c556cd6c86", null ],
+    [ "x", "classpd_1_1QuackHead.html#a670490fb40ea571e5a6cd4718c47df7e", null ],
+    [ "y", "classpd_1_1QuackHead.html#a58b35aca6c82ab51092176acbe011190", null ],
+    [ "yaw", "classpd_1_1QuackHead.html#acb416c2ff1d2aef30283f8081ef66ff7", null ],
+    [ "z", "classpd_1_1QuackHead.html#a1998366682e01c4fd4aa33d5fe3b404a", null ],
+    [ "QuackHeadProvider", "classpd_1_1QuackHead.html#a2433c7f2024ce7cb1b236ad26f00600b", null ],
+    [ "fDXL", "classpd_1_1QuackHead.html#a8769591f01edb03e316ca7ce2fe7d880", null ],
+    [ "fHasOrientation", "classpd_1_1QuackHead.html#a7eb6dddeaeb960747b985658c4393032", null ],
+    [ "fLastResponse", "classpd_1_1QuackHead.html#afd8e104c9f078ee3778e543329723093", null ],
+    [ "fOrientation", "classpd_1_1QuackHead.html#afde427fef80c765db80eaaa25764ba79", null ]
+];

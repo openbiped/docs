@@ -1,0 +1,7 @@
+<map id="pd::BusExtension" name="pd::BusExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,140,74"/>
+<area shape="rect" id="Node000002" href="$classpd_1_1motor_1_1robotis_1_1DynamixelBus.html" title=" " alt="" coords="216,5,355,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,45,215,34,216,40,154,50"/>
+<area shape="rect" id="Node000003" href="$classpd_1_1motor_1_1servo_1_1PCA9685BusVariable.html" title="Implements Dispatch over i2c to PCA9685." alt="" coords="188,70,383,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,72,188,78,187,83,153,78"/>
+</map>

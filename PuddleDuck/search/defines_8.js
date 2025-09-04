@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['pd_5f_5fapi_5f_5fcommand_5fwrapper_5f_5finit_0',['PD__API__COMMAND_WRAPPER__INIT',['../command_8pb-c_8h.html#a748a94a3b7ae852d9da96902a11fdcf4',1,'command.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fflashlight_5fcommand_5f_5finit_1',['PD__API__FLASHLIGHT_COMMAND__INIT',['../flashlight_8pb-c_8h.html#a6fe93528725cbb3dcd9af79aa03e54a9',1,'flashlight.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fjoint_5ffeedback_5f_5finit_2',['PD__API__JOINT_FEEDBACK__INIT',['../joint_8pb-c_8h.html#a6f68913e0bf4a6bbff0bdeaeae0adc47',1,'joint.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fjoint_5fmove_5fradians_5f_5finit_3',['PD__API__JOINT_MOVE_RADIANS__INIT',['../joint_8pb-c_8h.html#a2c069a4f3964f04fd127306d0937ff60',1,'joint.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fjoint_5fzero_5fref_5f_5finit_4',['PD__API__JOINT_ZERO_REF__INIT',['../joint__zero__ref_8pb-c_8h.html#acdebc840b5d3e30dbc1772fd5b969f8f',1,'joint_zero_ref.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fobservation_5f_5finit_5',['PD__API__OBSERVATION__INIT',['../observation_8pb-c_8h.html#a921a9825dd0c3a9d48c2c96d5219228f',1,'observation.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fpolicy_5faction_5f_5finit_6',['PD__API__POLICY_ACTION__INIT',['../policy__action_8pb-c_8h.html#ad1db46a8bca8ed9a7462cf3fb92ce783',1,'policy_action.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fpolicy_5fstart_5f_5finit_7',['PD__API__POLICY_START__INIT',['../policy__start_8pb-c_8h.html#a7fc5cbaf884dcf090e27e0ccafacb4a8',1,'policy_start.pb-c.h']]],
+  ['pd_5f_5fapi_5f_5fresponse_5fwrapper_5f_5finit_8',['PD__API__RESPONSE_WRAPPER__INIT',['../response_8pb-c_8h.html#a2aa46d880e1ffe65e2029cd537a5320f',1,'response.pb-c.h']]],
+  ['pdconfig_5ffile_9',['PDCONFIG_FILE',['../Config_8h.html#aa1589c1689d2370f9de01dade2ef3895',1,'Config.h']]],
+  ['pddefault_5ffile_10',['PDDEFAULT_FILE',['../Config_8h.html#a3b946207e922a43b515f3d4db483379c',1,'Config.h']]],
+  ['pdlog_5fbyte_11',['PDLOG_BYTE',['../Log_8h.html#a6f6aca673dc17efe5d9f2f980abb5126',1,'Log.h']]],
+  ['pdlog_5fdisable_12',['PDLOG_DISABLE',['../Log_8h.html#aa0343d6eb8569eb56d285d0828d974bc',1,'Log.h']]],
+  ['pdlog_5ferror_13',['PDLOG_ERROR',['../Log_8h.html#a29fbd43fc891aca277f3be2ab8b24fe6',1,'Log.h']]],
+  ['pdlog_5ferror_5fthrottled_14',['PDLOG_ERROR_THROTTLED',['../Log_8h.html#a5c50231936ce26aae598ea71d73e1c31',1,'Log.h']]],
+  ['pdlog_5finfo_15',['PDLOG_INFO',['../Log_8h.html#aa043e69cf445873bef38d1f2e267e854',1,'Log.h']]],
+  ['pdlog_5finfo_5fthrottled_16',['PDLOG_INFO_THROTTLED',['../Log_8h.html#a21f9fb3940ae78612079ce3bcb2d301b',1,'Log.h']]],
+  ['pdlog_5fis_5fbytewise_17',['PDLOG_IS_BYTEWISE',['../Log_8h.html#ae056fbb2de73010694cd37c62b573c5e',1,'Log.h']]],
+  ['pdlog_5fwarning_18',['PDLOG_WARNING',['../Log_8h.html#aa8f9b0db339209999259c89e9b23717e',1,'Log.h']]],
+  ['pi_19',['pi',['../gotest_8cpp.html#a598a3330b3c21701223ee0ca14316eca',1,'PI:&#160;gotest.cpp'],['../testjoint_8cpp.html#a598a3330b3c21701223ee0ca14316eca',1,'PI:&#160;testjoint.cpp'],['../ukigotest_8cpp.html#a598a3330b3c21701223ee0ca14316eca',1,'PI:&#160;ukigotest.cpp'],['../ukitest_8cpp.html#a598a3330b3c21701223ee0ca14316eca',1,'PI:&#160;ukitest.cpp']]],
+  ['pool_5fsize_20',['POOL_SIZE',['../API_8cpp.html#aa2ac54564b3514084afd2c5dafe9d232',1,'API.cpp']]],
+  ['progmem_21',['PROGMEM',['../CRC_8h.html#a75acaba9e781937468d0911423bc0c35',1,'CRC.h']]],
+  ['protobuf_5fc_5f_5fassert_5fnot_5freached_22',['PROTOBUF_C__ASSERT_NOT_REACHED',['../protobuf-c_8c.html#ad2e9f75bb293fb3f1178c1bce847bc93',1,'protobuf-c.c']]],
+  ['protobuf_5fc_5f_5fno_5fdeprecated_23',['protobuf_c__no_deprecated',['../command_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;command.pb-c.c'],['../flashlight_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;flashlight.pb-c.c'],['../joint_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;joint.pb-c.c'],['../joint__zero__ref_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;joint_zero_ref.pb-c.c'],['../observation_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;observation.pb-c.c'],['../policy__action_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;policy_action.pb-c.c'],['../policy__start_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;policy_start.pb-c.c'],['../response_8pb-c_8c.html#ad9480935c25b5155174487b631af52f5',1,'PROTOBUF_C__NO_DEPRECATED:&#160;response.pb-c.c']]]
+];

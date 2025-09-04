@@ -1,0 +1,19 @@
+<map id="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/Armature.h" name="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/Armature.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="333,5,527,60"/>
+<area shape="rect" id="Node000002" href="$Recording_8h.html" title=" " alt="" coords="61,108,255,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,67,230,110,228,105,346,62"/>
+<area shape="rect" id="Node000004" href="$Robot_8h.html" title=" " alt="" coords="333,108,527,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,74,433,108,427,108,427,74"/>
+<area shape="rect" id="Node000008" href="$puddle_8cpp.html" title=" " alt="" coords="465,313,595,339"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="502,65,524,84,540,107,551,135,557,164,557,224,548,277,537,314,532,312,542,276,552,224,552,165,546,136,536,109,520,87,498,70"/>
+<area shape="rect" id="Node000003" href="$Playback_8h.html" title=" " alt="" coords="5,211,199,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,176,119,212,114,209,134,174"/>
+<area shape="rect" id="Node000005" href="$API_8h.html" title=" " alt="" coords="223,225,343,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="382,173,302,227,299,223,379,168"/>
+<area shape="rect" id="Node000007" href="$Defaults_8h.html" title=" " alt="" coords="367,225,493,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="433,176,433,225,427,225,427,176"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="476,171,507,209,519,237,526,266,532,313,527,314,521,267,514,239,502,212,472,174"/>
+<area shape="rect" id="Node000006" href="$API_8cpp.html" title=" " alt="" coords="216,313,351,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="286,265,286,313,281,313,281,265"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="456,258,518,311,514,315,452,262"/>
+</map>

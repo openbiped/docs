@@ -1,0 +1,6 @@
+<map id="pd::FlexCANStreamProxy" name="pd::FlexCANStreamProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,192,105"/>
+<area shape="rect" id="Node000002" href="$classpd_1_1StreamProxy.html" title=" " alt="" coords="33,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,45,101,80,96,80,96,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="179,10,191,18,182,25,164,27,164,22,180,20,185,18,177,15"/>
+</map>

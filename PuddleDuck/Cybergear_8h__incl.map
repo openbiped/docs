@@ -1,0 +1,37 @@
+<map id="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/motor/xiaomi/Cybergear.h" name="/home/runner/work/PuddleDuck/PuddleDuck/include/pd/motor/xiaomi/Cybergear.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,5,334,60"/>
+<area shape="rect" id="Node000002" href="$Actuator_8h.html" title=" " alt="" coords="172,108,280,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,60,229,94,223,94,223,60"/>
+<area shape="rect" id="Node000003" href="$Bus_8h.html" title=" " alt="" coords="116,181,195,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,136,178,174,174,170,212,132"/>
+<area shape="rect" id="Node000007" href="$Log_8h.html" title=" " alt="" coords="301,255,439,280"/>
+<area shape="poly" id="edge16_Node000002_Node000007" title=" " alt="" coords="281,123,311,130,341,140,369,157,392,180,399,196,398,212,387,244,382,242,393,212,393,197,388,183,366,161,339,145,309,135,280,129"/>
+<area shape="rect" id="Node000013" href="$Utils_8h.html" title=" " alt="" coords="5,255,151,280"/>
+<area shape="poly" id="edge20_Node000002_Node000013" title=" " alt="" coords="183,136,142,154,122,167,105,183,90,211,83,241,78,240,85,209,101,180,119,163,139,149,181,131"/>
+<area shape="rect" id="Node000014" href="$Easing_8h.html" title=" " alt="" coords="219,181,377,207"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="240,132,278,170,275,174,236,136"/>
+<area shape="rect" id="Node000004" href="$Platform_8h.html" title=" " alt="" coords="23,328,133,353"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="163,206,170,241,170,261,164,281,145,306,120,324,117,319,141,302,160,279,165,261,165,241,157,208"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="191,204,323,248,321,253,189,209"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="145,209,103,247,99,243,141,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="36,401,120,427"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="81,354,81,388,75,388,75,354"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="346,401,421,427"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="128,351,334,398,332,404,126,356"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="434,278,511,298,543,311,563,326,571,345,567,361,555,374,536,385,487,401,435,410,434,405,486,395,534,380,552,370,563,358,565,345,559,330,540,315,509,303,433,283"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="624,328,695,353"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="417,277,612,325,610,330,416,283"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="157,328,228,353"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="342,282,235,325,233,320,341,278"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="253,328,317,353"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="358,282,311,321,307,317,355,278"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="341,328,399,353"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="373,280,373,314,367,314,367,280"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="424,328,548,353"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="390,278,457,318,454,323,387,282"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="81,280,81,314,75,314,75,280"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="98,278,164,318,161,323,95,282"/>
+<area shape="poly" id="edge19_Node000014_Node000009" title=" " alt="" coords="292,209,211,318,207,315,287,206"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="464,255,527,280"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="331,204,452,248,450,253,329,209"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="pd::StreamProxy" name="pd::StreamProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,136,117"/>
+<area shape="rect" id="Node000002" href="$classpd_1_1FlexCANStreamProxy.html" title=" " alt="" coords="187,5,374,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,82,140,61,183,41,221,28,223,33,185,46,143,66,105,87"/>
+<area shape="rect" id="Node000003" href="$classpd_1_1HardwareSerialStreamProxy.html" title=" " alt="" coords="184,55,377,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,91,183,86,184,92,150,96"/>
+<area shape="rect" id="Node000006" href="$classpd_1_1I2CStreamProxy.html" title=" " alt="" coords="205,120,356,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,113,205,120,205,125,150,118"/>
+<area shape="rect" id="Node000007" href="$classpd_1_1SerialStreamProxy.html" title=" " alt="" coords="197,169,364,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,121,185,156,222,167,220,172,183,160,106,126"/>
+<area shape="rect" id="Node000004" href="$classpd_1_1RS485StreamProxy.html" title=" " alt="" coords="425,39,596,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,61,425,58,426,63,391,66"/>
+<area shape="rect" id="Node000005" href="$classpd_1_1SBUSStreamProxy.html" title=" " alt="" coords="428,88,593,113"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="391,85,428,89,427,94,391,90"/>
+</map>

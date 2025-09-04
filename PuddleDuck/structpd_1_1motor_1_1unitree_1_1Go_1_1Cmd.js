@@ -1,0 +1,36 @@
+var structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd =
+[
+    [ "Mode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a19b347148770ab429f88c43e70679297", [
+      [ "BRAKE", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a19b347148770ab429f88c43e70679297ac2a110af11e3bca660648a61d6725fa7", null ],
+      [ "FOC", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a19b347148770ab429f88c43e70679297a185ec9aeaed181d641172e95f94dc572", null ]
+    ] ],
+    [ "Cmd", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a4beca4502d0ac725da71bfd6f2c2affb", null ],
+    [ "getMode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a6638028491bf054483dc6107d774a8cb", null ],
+    [ "getMotorID", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#adaace4167ae52c6a24a73ad5c23b8d6a", null ],
+    [ "isValid", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a3bb64f0ade351f146acf2f513de9d55d", null ],
+    [ "setBootMode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a9bb8cf3f1d01862d17a9a87fd402a469", null ],
+    [ "setBrakeMode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a91e1a143c7fb4281ae1ca78d1e604236", null ],
+    [ "setDQ", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a18f1e556c519393bab4419d6d3eaa00d", null ],
+    [ "setFOCMode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a7743052757aa5eef2fd887cdcd7c0f0a", null ],
+    [ "setInvalid", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a9112acccfddcfbdbd7a64cd306219ee2", null ],
+    [ "setKD", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a34b0a84a4f3b828108b03f1b063e4811", null ],
+    [ "setKP", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a5f780d99124d9b5041c927a40a19850a", null ],
+    [ "setMode", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#af50ef773ab0cba0713586e0f4ddf30f4", null ],
+    [ "setMotorID", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a412ad9dda7c0ab0dd18d17d038793058", null ],
+    [ "setQ", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a3f1da830b0de4e262fc4a70873deed95", null ],
+    [ "setQDegrees", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#aa07234e3a4fdd53afedcb1770fcc5c50", null ],
+    [ "setQRadians", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#aa7fd13e695565cd1d4fe9cda0d978527", null ],
+    [ "setTau", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a09e99b4547703b744d405a63e6c4ade6", null ],
+    [ "write", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#aacc06edc2a36ffdf15e338140770a6d7", null ],
+    [ "cmd", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a68f76c7c21ab5732838055adb6a1b109", null ],
+    [ "fBytes", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a10eb6d1b46f359f3b869a17cddb06c16", null ],
+    [ "fCRC", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#ad14cbdaee62c77459791b4a53fcb0dae", null ],
+    [ "fDQ", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#ad320c258253306b4f1c0f4ab2daa3e80", null ],
+    [ "fHeader", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a4c7098914f2f5f366e082d39d43fca71", null ],
+    [ "fKD", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#aeb921e7d7a23a21f59f166133942959b", null ],
+    [ "fKP", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#a5ff09cfbc56155644f52a86b0819cf07", null ],
+    [ "fModeID", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#ab60a776de57eb0336db3ce0903ca3beb", null ],
+    [ "fQ", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#addc5b8959f7f5888e4515f774fd4d16e", null ],
+    [ "fTau", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#abc78686de5c4b0f6a40d3a08706bacf0", null ],
+    [ "fValid", "structpd_1_1motor_1_1unitree_1_1Go_1_1Cmd.html#ab5521be3bea5c2eb43dff74bfc77620e", null ]
+];
